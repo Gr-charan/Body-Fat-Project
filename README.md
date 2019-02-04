@@ -13,19 +13,19 @@ This folder contains mainly the figures/images/tables produced in our analysis.
 
 ## Data
 BodyFat.csv is the original 252 records (all males) of available measurements include age, weight, height, bmi, and various body circumference measurements. In particular, the variables listed below (from left to right in the data set) are:
-
-Percent body fat from Siri's (1956) equation
-Density determined from underwater weighing
-Age (years)
-Weight (lbs)
-Height (inches)
-Adioposity (bmi) Neck circumference (cm)
-Chest circumference (cm)
-Abdomen 2 circumference (cm)
-Hip circumference (cm)
-Thigh circumference (cm)
-Knee circumference (cm)
-Ankle circumference (cm)
-Biceps (extended) circumference (cm)
-Forearm circumference (cm)
-Wrist circumference (cm)
+<br>
+<br>Percent body fat from Siri's (1956) equation
+<br>Density determined from underwater weighing
+<br>Age (years)
+<br>Weight (lbs)
+<br>Height (inches)
+<br>Adioposity (bmi) Neck circumference (cm)
+<br>Chest circumference (cm)
+<br>Abdomen 2 circumference (cm)
+<br>Hip circumference (cm)
+<br>Thigh circumference (cm)
+<br>Knee circumference (cm)
+<br>Ankle circumference (cm)
+<br>Biceps (extended) circumference (cm)
+<br>Forearm circumference (cm)
+<br>Wrist circumference (cm)
