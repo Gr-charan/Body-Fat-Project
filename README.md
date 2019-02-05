@@ -7,7 +7,7 @@ A simple, robust, accurate and precise “rule-of-thumb” method to estimate pe
 Body Fat Calculator: https://sylviawong.shinyapps.io/BodyFat/
 
 ## Code
-Module1.R is our file to process and analyze the data.
+Module1.R is our code to process and analyze the data.
 
 ## Image
 This folder contains mainly the figures/images/tables produced in our analysis.
