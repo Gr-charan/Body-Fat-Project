@@ -31,8 +31,8 @@ which.max(cooks.distance(m1))#check the most influence point
 d1<-data.frame(index=as.numeric(1:252),cooks=as.numeric(cooks.distance(m1)))
 pic2<-ggplot(d1,aes(x=index,y=cooks))+geom_point()+annotate("text",x=42,y=2,label="42")+geom_point(x=42,y=1.910141,colour="red")+
   xlab("INDO")+ylab("cook's distance")
-print(pic2)#we find 42 is a high influence poin
-#we find 42 is a high influence point
+print(pic2)#we found 42 is a high influence poin
+#we found 42 is a high influence point
 
 data[42,]#shortest guy
 pic3<-ggplot(data,aes(x=1:252,y=HEIGHT))+geom_point()+xlab("INDO")+ylab("HEIGHT(inches)")#we think the error is made 
