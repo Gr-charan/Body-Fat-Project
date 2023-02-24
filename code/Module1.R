@@ -6,7 +6,7 @@ library(caret)
 library(leaps)
 library(MASS)
 library(car)
-#load the package we need
+#load the package we required
 setwd("~/Desktop/module1")
 
 data<-read.csv("BodyFat.csv",header = T)
